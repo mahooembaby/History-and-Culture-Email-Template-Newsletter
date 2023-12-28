@@ -1,0 +1,31 @@
+<mjml>
+  <mj-body background-color="#000">
+
+    <mj-section full-width="full-width" background-url="https://i.ibb.co/17V2p6H/background-image.png" background-repeat="no-repeat">
+      <mj-column width="100%">
+        <mj-image href="#" width="350px" align="center" src="https://i.ibb.co/Xxyy1dn/picture.png" padding-top="130px" padding-bottom="40px"></mj-image>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-text align="center" color="#000" text-transform="capitalize" font-weight="400" padding-left="45px" padding-right="45px" line-height="25px" font-size="17px" padding-bottom="25px">nam sodales sed nisi in posuere. nulla sed nibh incidunt, placerat nisl vel, tristique est. in vel facilisis massa. in tempus commodo sagittis. fusce a felis at tellus pulvinar lacinia.<br />vivamus placerat tortor molestie, porttitor ex sit amet, rutrum mi. suspendisse ultrices viverra tristique. morbi gravida quam quis massa pulvinar, id dictum lectus pellentesque. donec sit amet auctor dolor, efficitur facilisis lorem, sed tempor nisl ac risus viverra, et scelerisque erat sagittis.</mj-text>
+        <mj-button href="#" padding-bottom="60px" background-color="#000" color="#fff" text-transform="capitalize" inner-padding="10px 50px" font-weight="300">read more</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000" padding-top="35px">
+      <mj-column>
+        <mj-text align="center">
+          <div>
+            <a href="#"><img src="https://i.ibb.co/jvM7Ghc/facebook.png" style="width:30px;margin-right:8px" /></a>
+            <a href="#"><img src="https://i.ibb.co/LhtSPRx/twitter.png" style="width:30px;margin-right:8px" /></a>
+            <a href="#"><img src="https://i.ibb.co/fSkg879/linkedin.png" style="width:30px;margin-right:8px" /></a>
+            <a href="#"><img src="https://i.ibb.co/L6xn3Xw/instagram.png" style="width:30px;" /></a>
+          </div>
+        </mj-text>
+        <mj-text align="center" color="#fff" font-size="12px" text-transform="uppercase" font-weight="600">unsubscribe | privacy policy | web</mj-text>
+        <mj-text align="center" color="#fff" font-size="15px" line-height="20px" padding-left="50px" padding-right="50px" padding-top="0" text-transform="capitalize" font-weight="300">lorem ipusm dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</mj-text>
+        <mj-divider border-color="#fff" border-width="1px" width="100%" padding-top="30px" padding-bottom="30px"></mj-divider>
+        <mj-image href="#" src="https://i.ibb.co/NVHBnqR/made-logo-white.png" width="120px"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
